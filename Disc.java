@@ -1,0 +1,4 @@
+
+interface Disc {
+	void discount ();
+}
